@@ -16,6 +16,8 @@ jim = User.new
 jim.first_name = "Jim"
 jim.last_name = "Bean"
 
+new_student = Student.new
+
 
 some_knowledge = avi.teach
 more_important_knowledge = avi.teach
